@@ -7,8 +7,6 @@
 
 ### ℹ️ About The Project
 
-Provide a detailed description of your project:
-
 * **Motivation**: In many fields, users often work with data-heavy files like reports or spreadsheets and struggle to extract meaningful answers or visual insights. The motivation behind creating Brainwave was to build a tool that can efficiently process documents and Excel files, allowing users to ask questions about the data and instantly generate visualizations (charts/graphs) to better understand it. Whether you're analyzing financial reports, research documents, or just want to visualize data in your spreadsheets, Brainwave offers an easy, interactive solution.
 * **Built With**: Brainwave was built with a combination of powerful technologies to provide a seamless user experience:
 
@@ -41,7 +39,7 @@ Follow these instructions to get Brainwave up and running locally:
 
 #### Installation
 
-Step-by-step instructions to install your project: https://github.com/Dhruvpatel151180/Brainwave
+Step-by-step instructions to install this project: https://github.com/Dhruvpatel151180/Brainwave
 
 # Example:
 1. Clone the repository
