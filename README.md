@@ -28,11 +28,27 @@ Follow these instructions to get Brainwave up and running locally:
 
 #### Prerequisites
 
-- Python 3.8+ (or higher)
-- pip (Python package installer)
-- Flask (or any other web framework you're using)
-- pandas (for handling Excel files)
-- matplotlib / seaborn (for visualizations)
+- langchain
+- langchain-core
+- langchain-community
+- langchain-google-genai
+- google-generativeai
+- python-dotenv
+- streamlit
+- plotly
+- xlrd
+- openpyxl
+- faiss-cpu
+- huggingface-hub
+- sentence-transformers
+- groq
+- langchain-groq
+- PyPDF2
+- pypdf
+- google-cloud-aiplatform
+- python-docx
+- chromadb
+- streamlit-js-eval
 
 
 
